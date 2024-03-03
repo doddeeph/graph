@@ -1,0 +1,10 @@
+
+r	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•âØûÿÿÿÿ8¼µ‹Ÿà1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ•ğıÿÿÿÿ8«ó‹Ÿà1
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¦Äÿÿÿÿÿ8¿±ŒŸà1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÚÇ‡øÿÿÿÿ8èêŒŸà1
+i
+java:S1871$"LThis branch's code block is the same as the block for the branch on line 34.(ÕåËØ8åËüà1
+G	java:S106H"+Replace this use of System.out by a logger.(¦Î‹8Õ®Ÿà1
+F
+java:S1068/")Remove this unused "label" private field.(¯©·8æËüà1

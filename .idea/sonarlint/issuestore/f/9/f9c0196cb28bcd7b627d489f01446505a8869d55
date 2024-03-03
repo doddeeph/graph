@@ -1,0 +1,9 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(£ƒŸðÿÿÿÿÿ8Ìµ›—à1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿œàþ8Ìµ›—à1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿œàþ8Ìµ›—à1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ´ª»üÿÿÿÿ8Ìµ›—à1
+r	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Îˆúøÿÿÿÿ8Ìµ›—à1
+m	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µèÞÜ8Ìµ›—à1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÅÊ·úÿÿÿÿ8Ìµ›—à1
+F	java:S106G"+Replace this use of System.out by a logger.(œ¬:8Õµ›—à1

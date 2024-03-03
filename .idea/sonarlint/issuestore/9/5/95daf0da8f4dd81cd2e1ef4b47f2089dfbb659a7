@@ -1,0 +1,10 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Alice" 4 times.(‡Û½úÿÿÿÿ8îìœà1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Maria" 3 times.(‡Û½úÿÿÿÿ8ïìœà1
+r
+java:S1149J"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(³–ÄÕùÿÿÿÿ8øìœà1
+L	java:S106o"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ıìœà1
+H	java:S106‡"+Replace this use of System.out by a logger.(»çêæ8şìœà1
+H	java:S106“"+Replace this use of System.out by a logger.(„ÿƒ·8ÿìœà1
